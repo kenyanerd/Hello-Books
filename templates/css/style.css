@@ -5,9 +5,12 @@ html, body {
 }
 
 body {
-    background-color: maroon;
+    background: url('../images/back-two.jpg');
+    color : white;
+    /**background-color: maroon;
     color: white;
     font: sans-serif;
+    **/
 }
 
 nav {
