@@ -1,6 +1,6 @@
 /*
  eslint-disable
- 
+ **/
 $(document).ready(function () {
     $(".button-collapse").sideNav({ edge: 'right' });
     $('select').material_select();
@@ -63,4 +63,3 @@ $(document).ready(function () {
 
 });
 
-*/
